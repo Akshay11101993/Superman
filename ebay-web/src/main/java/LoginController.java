@@ -2,7 +2,7 @@
 public class LoginController {
 
 	private void syso() {
-		// TODO Auto-generated method stub
+		System.out.println("This is my first contoller");
 
 	}
 }
